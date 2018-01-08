@@ -1,0 +1,46 @@
+---
+layout:     post
+title:      "诞生记"
+subtitle:   ""
+date:       2018-01-07 14:00:00
+author:     "chenxf"
+header-img: ""
+---
+
+
+
+终于在github上设好个人博客了，不容易。
+
+从6号晚上开始研究，到7号中午完成。折腾了大半天。中间走过不少弯路，以后慢慢补充。
+
+经历了如下步骤：
+
+* 在github上建好个人页面。
+* 去namesilo上买域名。
+* 再到dnspod上添加该域名，并在该域名下，添加与个人github网页地址相对应的三个记录。
+* 再回到namesilo，将 nameserver替换成dnspod的两个网址。
+* 最后回到github，在根目录下建立CNMAME，填上注册的个人域名。稍等一会儿，就可以访问了。
+
+算是在互联网上有了自己真正的根据地。
+
+技术菜鸟一个，自己不会设计，所以个人页面fork了[huxpro.github.io](https://github.com/Huxpro/huxpro.github.io) 的博客模板。以后慢慢学。
+
+由于博客已经设计好了，所以之后只要不断更新文章就可以。
+
+在gitbash上，使用如下命令fork好的博客clone到本地计算机上。
+
+>get clone “https://github.com/angilis/angilis.github.io.git”
+
+然后进入其中的posts文件夹，在里面新建新的markdown文件，就可以写新博文了。
+
+写好后，再利用gitbash，上传到github上（独立域名下的博客也会同步显示）具体而言，按顺序使用以下命令，写完一个，按回车，稍等片刻后再写下一个。
+
+> git add .
+>
+> git commit -m "第一篇博客"
+>
+> git push origin master
+
+然后就大功告成啦。
+
+新年加油。
