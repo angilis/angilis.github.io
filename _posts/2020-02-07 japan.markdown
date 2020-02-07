@@ -7,25 +7,22 @@ author:     "chenxf"
 header-img: ""
 ---
 
-大阪目标位置
+大阪
 
-[エステムコート四天王寺夕陽丘](https://www.homes.co.jp/mansion/b-1138380002348/)
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d820.5133271627433!2d135.5122306943423!3d34.65335662101974!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000ddf6185eaaab%3A0xfba9954df7f0f9d7!2z44Ko44K544OG44Og44Kz44O844OI5Zub5aSp546L5a-65aSV6Zm95LiY!5e0!3m2!1szh-CN!2sus!4v1581086400899!5m2!1szh-CN!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
 [エスリード夕陽丘第２](https://www.homes.co.jp/mansion/b-1369670002809/)
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2320.6579899930643!2d135.51289442025367!3d34.65707671377382!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000e759b4515555%3A0xfa34236c9f41ee33!2z44Ko44K544Oq44O844OJ5aSV6Zm95LiY56ys77yS!5e0!3m2!1szh-CN!2sus!4v1581086749451!5m2!1szh-CN!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
-
-[アーバンパレス九条](https://www.homes.co.jp/mansion/b-1118480005952/)
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d205.06359700501082!2d135.47241256137556!3d34.67950647961965!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000e648a3ec2df9%3A0x9dbf307f3d39aa06!2z5pel5pys44CSNTUwLTAwMjIgT3Nha2EsIE5pc2hpLWt1LCBIb25kZW4sIDQtY2jFjW1l4oiSOOKIkjIg44Ki44O844OQ44Oz44OR44Os44K55Lmd5p2h!5e0!3m2!1szh-CN!2sus!4v1581086894810!5m2!1szh-CN!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
 [エスリード大阪城北](https://www.homes.co.jp/mansion/b-1369670003157/)
 〒534-0025 Osaka, Miyakojima-ku, Katamachi, 1-chōme−2−20
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d205.0289665026351!2d135.5281934598221!3d34.69348852058553!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000e0d45b488be9%3A0x884a168856f0295f!2z5pel5pys44CSNTM0LTAwMjUgT3Nha2EsIE1peWFrb2ppbWEta3UsIEthdGFtYWNoaSwgMS1jaMWNbWXiiJIy4oiSMjAg44Ko44K544Oq44O844OJ5aSn6Ziq5Z-O5YyX!5e0!3m2!1szh-CN!2sus!4v1581087476067!5m2!1szh-CN!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
+[エステムコート四天王寺夕陽丘](https://www.homes.co.jp/mansion/b-1138380002348/)
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d306141.380212437!2d126.3453416664724!3d33.3711157139061!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x350ce3544cc84045%3A0x66bc36d2981ebf31!2sJeju-do%2C+South+Korea!5e0!3m2!1sen!2sus!4v1473136714592" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+[アーバンパレス九条](https://www.homes.co.jp/mansion/b-1118480005952/)
 
+京都
 
+[エスリード京都河原町第３](https://goo.gl/maps/wV9SZwi1HzB36e456)
+〒600-8023 Kyoto, Shimogyō-ku, Tominagachō, 348
 
 [グランドパレス堀川](https://goo.gl/maps/RumDmTykwRrPKrb7A)
 网站：https://www.homes.co.jp/mansion/b-1182490008934/
@@ -36,8 +33,8 @@ https://www.homes.co.jp/mansion/b-1073310000104/
 [ラナップスクエア京都北野](https://goo.gl/maps/bpmR5y6FRgy8BZveA）
 https://www.homes.co.jp/mansion/b-1102270005158/
 
+神户
 
-
-[エスリード京都河原町第３](https://goo.gl/maps/wV9SZwi1HzB36e456)
-〒600-8023 Kyoto, Shimogyō-ku, Tominagachō, 348
+[エスリード三宮第2](https://goo.gl/maps/8SU6eMstg2p8Rp2y9)
+https://www.homes.co.jp/mansion/b-1053120023330/?iskks=1
 
